@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+espresso_test_suite.ps1
+/app/google-services.json
+# files for the dex VM
+*.dex
+first-firebase-android-test-dc4be0b3ecfd.json
+# Java class files
+*.class
+*.log
