@@ -1,4 +1,4 @@
 # MyLoginApp
 
-Simple Login Design for android 
+Simple Login Design for android APp
 
